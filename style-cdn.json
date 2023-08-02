@@ -18,10 +18,10 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=Xfb74aIJXmRrUdfJyYo5"
+      "url": "https://api.maptiler.com/tiles/v3/tiles.json?key=P3jmdPMSdd3CXld4CMXc"
     }
   },
-  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=Xfb74aIJXmRrUdfJyYo5",
+  "glyphs": "https://api.maptiler.com/fonts/{fontstack}/{range}.pbf?key=P3jmdPMSdd3CXld4CMXc",
   "layers": [
     {
       "id": "background",
